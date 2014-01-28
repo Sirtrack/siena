@@ -5,7 +5,7 @@
 	<groupId>siena</groupId>
 	<artifactId>siena</artifactId>
 	<name>siena</name>
-	<version>1.0.0-b6</version>
+	<version>1.0.0-b7</version>
 	<url>http://www.sienaproject.com</url>
 	<description>
 		Siena is a persistence abstraction layer made in Java with various implementations:
@@ -169,7 +169,7 @@
 
 	<properties>
 		<mysql.version>5.1.6</mysql.version>
-		<gae.version>1.7.1</gae.version>
+		<gae.version>1.8.6</gae.version>
 		<hbase.version>0.21.0-SNAPSHOT</hbase.version>
 		<postgres.version>8.4-702.jdbc4</postgres.version>
 		<drizzle.version>1.0</drizzle.version>
